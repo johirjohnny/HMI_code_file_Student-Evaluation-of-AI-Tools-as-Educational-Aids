@@ -9,6 +9,25 @@ This repository contains analysis scripts (Python and R) used to study **how uni
 ---
 
 ## 🔧 Requirements
+### R
+-R version 4.5.1
+Libraries
+-readxl
+-psych
+Software used
+-VS code 
+Ectension needed: 
+-R, R Debugger, R syntex, R Tools
+-Run via Source code command:
+source("sourceYourPath/CronbachAlphaEthics.r")
+note: change excel path in code 
+ 
+
+
+
+
+**
+Run the correlation analysis script:**
 
 ### Python
 - Python 3.9+  
@@ -17,14 +36,7 @@ This repository contains analysis scripts (Python and R) used to study **how uni
   - `numpy`
   - `matplotlib`
 
-Install with:
-bash
-pip install -r requirements.txt
-R
 
-R (4.0 or higher recommended)
-
-Useful packages: psych, tidyverse
 
 
 **
@@ -42,10 +54,7 @@ Save results in /outputs**
 **
 R
 
-Run reliability analyses:**
-source("CronbachAlphaEthics.r")
-source("CronbachAlphaHelpfullness.r")
-source("CronbachAlphaUsefullness.r")
+
 📊 Key Analyses
 
 Correlation Analysis: Examines relationships between Frequency, Usefulness, Ethics, and Evaluation composites.
