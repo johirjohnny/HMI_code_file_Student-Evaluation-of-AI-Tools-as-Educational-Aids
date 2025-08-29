@@ -16,7 +16,7 @@ Libraries
 -psych
 Software used
 -VS code 
-Ectension needed: 
+Extension needed: 
 -R, R Debugger, R syntex, R Tools
 -Run via Source code command:
 source("sourceYourPath/CronbachAlphaEthics.r")
