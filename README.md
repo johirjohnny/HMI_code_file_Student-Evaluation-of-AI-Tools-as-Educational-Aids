@@ -23,21 +23,12 @@ source("sourceYourPath/CronbachAlphaEthics.r")
 note: change excel path in code 
  
 
-
-
-
-**
-Run the correlation analysis script:**
-
 ### Python
 - Python 3.9+  
 - Libraries:
   - `pandas`
   - `numpy`
   - `matplotlib`
-
-
-
 
 **
 Run the correlation analysis script:**
